@@ -117,7 +117,7 @@ Server Internet access: Yes
 
 ## Get Started with CAPE
 
-Use this [tutorial](https://docs.cape.sh/docs/simple-install) to get started quickly.
+Use this [tutorial](https://docs.cape.sh/installation) to get started quickly.
 
 
 ## Get Involved
